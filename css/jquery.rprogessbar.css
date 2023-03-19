@@ -1,0 +1,24 @@
+/*----------------------------
+    rProgressbar
+----------------------------*/
+
+.progressbar {
+    width: 100%;
+    position: relative;
+    background-color: #f4f4f4;
+}
+
+.proggress {
+    height: 8px;
+    width: 10px;
+    background-color: #ff0;
+}
+
+.percentCount {
+    float: left;
+    margin-top: -42px;
+    clear: both;
+    font-weight: 700;
+    font-size: 16px;
+    color: #777777;
+}
